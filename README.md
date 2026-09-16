@@ -1,1 +1,21 @@
-# mrroyal
+THE ROYAL PLACE — V5 VERSION 004
+
+Changes in this version:
+- Replaced the previous 240-frame wardrobe JPG sequence with the newly supplied 240-frame sequence.
+- Preserved the supplied JPG files without recompression; frames are 1280×720.
+- Kept the scroll-scrubbed intro structure from Version 003.
+- Kept the intro slogan and brand name only in the main navigation.
+- Applied the requested full-site palette: Dark Brown #3B2920, Beige #E8D8C3, Cream #FAF7F2, Black #151515.
+- Added a quality guard so the sequence is not upscaled beyond its native 1280px width on large screens.
+- No unrelated page structure or content was intentionally changed.
+
+
+Version 005 change: added the THE ROYAL PLACE logo mark directly above the intro slogan. The main menu branding and all other page sections remain unchanged.
+
+Version 006:
+- Replaced the 240 JPG hero sequence with the supplied Wardrobe_product_reveal_animation MP4.
+- Added a high-quality all-intra H.264 scroll master for accurate timeline seeking.
+- Kept the source resolution at 1280x720; no artificial spatial upscaling.
+- Added a first-frame poster for immediate visual display while the video loads.
+- Scroll controls video.currentTime; the video does not autoplay.
+- Audio is retained in the MP4 asset but muted for the scroll-scrubbed intro.
